@@ -16,3 +16,6 @@ Course work, BMSTU IU5
 - [iOS Application](https://github.com/BMSTU-IU5-RealTimeMessenger/RealTimeMassenger-iOS)
 - [ ] [Broker]()
 - [ ] [Codable Service]()
+
+## Figma
+[Ссылка на просмотр](https://www.figma.com/file/JthCd2UHIQdxDugqfmzOni/RealTimeMessenger?type=design&node-id=0%3A1&mode=design&t=CCuyxokNkQTL9jxF-1)
