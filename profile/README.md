@@ -12,8 +12,8 @@ Course work, BMSTU IU5
 - Рассказов Никита [Канальный уровень]
 
 ## Проекты:
-- [WebSocket Server](https://github.com/BMSTU-IU5-RealTimeMessenger/RealTimeMassengerAPI)
-- [iOS Application](https://github.com/BMSTU-IU5-RealTimeMessenger/RealTimeMassenger-iOS)
+- [WebSocket Server](https://github.com/BMSTU-IU5-RealTimeMessenger/RealTimeMessengerAPI)
+- [iOS Application](https://github.com/BMSTU-IU5-RealTimeMessenger/RealTimeMessenger-iOS)
 - [ ] [Broker]()
 - [ ] [Codable Service]()
 
