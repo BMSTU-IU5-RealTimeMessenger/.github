@@ -14,7 +14,7 @@ Course work, BMSTU IU5
 ## Проекты:
 - [WebSocket Server](https://github.com/BMSTU-IU5-RealTimeMessenger/RealTimeMessengerAPI)
 - [iOS Application](https://github.com/BMSTU-IU5-RealTimeMessenger/RealTimeMessenger-iOS)
-- [ ] [Broker]()
+- [Broker](https://github.com/BMSTU-IU5-RealTimeMessenger/RealTimeMessenger-Broker)
 - [ ] [Codable Service]()
 
 ## Figma
